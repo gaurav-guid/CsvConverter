@@ -1,0 +1,25 @@
+﻿# .NET-specific
+bin/
+obj/
+
+# Visual Studio files
+.vscode/
+.vs/
+.suo
+.user
+.sln.docstates
+
+# User-specific files
+*.user
+*.suo
+
+# Dependency folders
+packages/
+node_modules/
+
+# Mac and Linux temporary files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
